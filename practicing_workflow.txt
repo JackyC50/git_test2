@@ -1,0 +1,1 @@
+testing git add . to add all files in current directory and all sbusequent directories to the staging area
